@@ -1,0 +1,7 @@
+numpy==1.17.0
+torch==1.7.0
+gym==0.14.0
+transforms3d==0.4.1
+tensorboardX==2.6.2.2
+protobuf==3.20.1
+
