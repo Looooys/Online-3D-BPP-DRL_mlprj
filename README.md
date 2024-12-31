@@ -33,4 +33,8 @@ You can run 'python main.py --mode test --load-model --use-cuda --data-name cut_
 If you want to see how the model works in a lookahead setting,
 You can run 'python main.py --mode test --load-model --use-cuda --data-name cut_2.pt --load-name default_cut_2.pt --preview x', x is the lookahead number.
 
+Testing task3
+
+python main.py --mode test --load-model --use-cuda --data-name scaled_task3_added.pt --load-name default_cut_2.pt --preview 5 --cases 54776
+
 ```
